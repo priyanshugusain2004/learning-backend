@@ -1,0 +1,12 @@
+{
+  "name": "learning-backend",
+  "version": "1.0.0",
+  "description": "in this i will learn about api's and backend end devlopement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "priyanshu gusain",
+  "license": "ISC"
+}
